@@ -1,2 +1,3 @@
-# rapid-marketplace-ackf
-A online marketplace platform for modern development workflows
+# Rapid Marketplace Ackf
+
+A online marketplace platform for modern development workflows.
